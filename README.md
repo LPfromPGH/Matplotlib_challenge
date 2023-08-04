@@ -30,6 +30,8 @@ Create a Line Plot and a Scatter Plot
 Calculate Correlation and Regression
 1. Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
 Plot the linear regression model on top of the previous scatter plot.
+
+
 Sources for Guidance:
 Sophie Barstein for the piece of code to get rid of the mouse with duplicate data
 https://www.geeksforgeeks.org/selecting-rows-in-pandas-dataframe-based-on-conditions/
